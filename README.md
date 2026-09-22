@@ -44,7 +44,7 @@ Most popular clients and desktop tools suffer from the same issues:
 ## Quick Start
 
 ```bash
-### 1. Clone the repository
+## 1. Clone the repository
 git clone [https://github.com/Crombles/fuster.git](https://github.com/Cronbles/fuster.git)
 cd fuster
 2. Run directly
