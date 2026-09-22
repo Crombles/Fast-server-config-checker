@@ -39,7 +39,7 @@ Most popular clients and desktop tools suffer from the same issues:
 [+] Server: 🇫🇷 Франция | WI-FI | Status: ALIVE | Latency: 967ms
 [-] Server: 🇳🇱 Нидерланды | WI-FI | Status: DEAD
 [-] Server: 🇳🇱 Нидерланды #2 | WI-FI | Status: DEAD
-##  Output Example
+```
 
 ## Quick Start
 
