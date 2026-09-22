@@ -39,18 +39,19 @@ Most popular clients and desktop tools suffer from the same issues:
 [+] Server: 🇫🇷 Франция | WI-FI | Status: ALIVE | Latency: 967ms
 [-] Server: 🇳🇱 Нидерланды | WI-FI | Status: DEAD
 [-] Server: 🇳🇱 Нидерланды #2 | WI-FI | Status: DEAD
-Requirements
-Go 1.21 or higher installed on your system.
+---
+```text
 
-Quick Start
-1. Clone the repository
-Bash
-git clone [https://github.com/your-username/fuster.git](https://github.com/your-username/fuster.git)
+## Quick Start
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/Crombles/fuster.git](https://github.com/Cronbles/fuster.git)
 cd fuster
 2. Run directly
 Bash
-go run main.go
+go run .
 3. Build executable
 Bash
-go build -o fuster main.go
+go build -o fuster .
 ./fuster
