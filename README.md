@@ -53,4 +53,4 @@ go run .
 3. Build executable
 Bash
 go build -o fuster .
-./fuster
+./Fast-server-config-checker
