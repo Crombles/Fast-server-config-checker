@@ -45,12 +45,12 @@ Most popular clients and desktop tools suffer from the same issues:
 
 ```bash
 1. Clone the repository
-git clone [https://github.com/Crombles/Fast-server-config-checker.git](https://github.com/Crombles/Fast-server-config-checker.git)
-cd fuster
+git clone https://github.com/Crombles/Fast-server-config-checker.git
+cd checker
 2. Run directly
 Bash
 go run .
 3. Build executable
 Bash
-go build -o fuster .
-./Fast-server-config-checker
+go build -o checker .
+./checker
