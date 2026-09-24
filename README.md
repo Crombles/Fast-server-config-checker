@@ -41,16 +41,21 @@ Most popular clients and desktop tools suffer from the same issues:
 [-] Server: 🇳🇱 Нидерланды #2 | WI-FI | Status: DEAD
 ```
 
-## Quick Start
+##  Quick Start
 
+### 1. Clone the repository
 ```bash
-1. Clone the repository
-git clone https://github.com/Crombles/Fast-server-config-checker.git checker
+git clone [https://github.com/Crombles/Fast-server-config-checker.git](https://github.com/Crombles/Fast-server-config-checker.git) checker
 cd checker
-2. Run directly
-Bash
+```
+
+### 2. Run directly
+```bash
 go run .
-3. Build executable
-Bash
+```
+
+### 3. Build executable
+```bash
 go build -o checker .
 ./checker
+```
