@@ -45,7 +45,7 @@ Most popular clients and desktop tools suffer from the same issues:
 
 ```bash
 1. Clone the repository
-git clone https://github.com/Crombles/Fast-server-config-checker.git
+git clone https://github.com/Crombles/Fast-server-config-checker.git checker
 cd checker
 2. Run directly
 Bash
