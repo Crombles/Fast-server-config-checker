@@ -45,7 +45,7 @@ Most popular clients and desktop tools suffer from the same issues:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Crombles/Fast-server-config-checker.git](https://github.com/Crombles/Fast-server-config-checker.git) checker
+git clone https://github.com/Crombles/Fast-server-config-checker.git checker
 cd checker
 ```
 
@@ -57,5 +57,9 @@ go run .
 ### 3. Build executable
 ```bash
 go build -o checker .
+```
+
+### 4. Run executable
+```bash
 ./checker
 ```
